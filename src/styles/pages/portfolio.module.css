@@ -1,0 +1,16 @@
+.repoInput {
+margin-left: 40%;
+margin-top: 16px;
+}
+
+.repoInfo {
+    display: flex;
+    flex-direction: row;;
+    margin: 16px 35%;
+    justify-content: space-between;
+}
+
+.icon {
+    margin-left: 6px;
+    align-self: center;
+}
